@@ -9,3 +9,8 @@ wheels/
 # Virtual environments
 .venv
 .vscode
+
+# Data Files
+data/ 
+*.duckdb 
+logs/
