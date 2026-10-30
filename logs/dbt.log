@@ -1,0 +1,38 @@
+==================== 2026-10-30T03:25:14.546639Z | 01a18ad7-17b0-7052-8723-c6bf703ad2c2 ====================
+03:25:14.546844 [info ]: Installing dbt project and profile setup
+03:25:14.550771 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+03:25:14.550971 [info ]: Success Project created successfully!
+03:25:14.551104 [info ]: Info Project name: anlytics
+03:25:14.551234 [info ]: Info Project directory: anlytics
+03:25:58.374956 [error]: [IoError (dbt1001)]: Failed to get profile selection: IO error: read interrupted
+03:25:58.534581 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' with 1 error [44.0s]
+==================== 2026-10-30T03:26:21.042752Z | 01a18ad8-1b70-7901-9a31-b0f1ec47c79a ====================
+03:26:21.042959 [info ]: Installing dbt project and profile setup
+03:26:21.043078 [info ]: Warning Directory 'anlytics' already exists, using 'anlytics_1' instead
+03:26:21.046088 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+03:26:21.046160 [info ]: Success Project created successfully!
+03:26:21.046183 [info ]: Info Project name: anlytics_1
+03:26:21.046202 [info ]: Info Project directory: anlytics_1
+03:26:21.564691 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' successfully [521ms]
+==================== 2026-10-30T03:26:37.935683Z | 01a18ad8-5d6e-71d2-bf37-386c2df58d3c ====================
+03:26:37.935841 [info ]: Installing dbt project and profile setup
+03:26:37.937493 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+03:26:37.937564 [info ]: Success Project created successfully!
+03:26:37.937593 [info ]: Info Project name: anlytics
+03:26:37.937624 [info ]: Info Project directory: anlytics
+03:26:38.393360 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' successfully [457ms]
+==================== 2026-10-30T03:43:08.188029Z | 01a18ae7-799a-7a30-bb7c-84b419f980ac ====================
+03:43:08.188208 [info ]: Installing dbt project and profile setup
+03:43:08.190143 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+03:43:08.190219 [info ]: Success Project created successfully!
+03:43:08.190266 [info ]: Info Project name: analytics
+03:43:08.190290 [info ]: Info Project directory: analytics
+03:43:08.669465 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' successfully [481ms]
